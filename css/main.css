@@ -249,6 +249,12 @@ footer #copyright li {
     /*width: 80%;*/
     /*margin: 0 10%;*/
 }
+.grid .grid-item.width4 {
+    width: 48%;
+/*    width: 66.6%;*/
+    /*width: 80%;*/
+    /*margin: 0 10%;*/
+}
 .grid .grid-item.width3 {
     width: 99%;
 }
