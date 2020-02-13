@@ -78,6 +78,7 @@ html {
 
 /* line 9, ../sass/bits/_typography.scss */
 body {
+  /* background-color: #232222; */
   background-color: #232222;
   padding: 0.5%;
 }
@@ -277,7 +278,7 @@ footer #copyright li {
   height: auto;
   float: left;
   background: #232222;
-  border: 8px solid #232222;
+  border: 12px solid #232222;
 }
 /* line 142, ../sass/partials/_layout.scss */
 .grid .grid-item img,.grid .grid-item.width2 img,.grid .grid-item.width3 img {
