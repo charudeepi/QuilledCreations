@@ -129,12 +129,13 @@ h4 {
 }
 /* line 17, ../sass/partials/_layout.scss */
 .q-nav header h4 a {
-  color: #037556;
+  color: #c4c2c2;
   text-decoration: none;
 }
 /* line 22, ../sass/partials/_layout.scss */
 .q-nav header h4 a:hover {
-  color: #c4c2c2;
+  color: #3A773B;
+    
 }
 
 /* line 34, ../sass/partials/_layout.scss */
@@ -243,12 +244,26 @@ footer #copyright li {
 .grid .grid-sizer,
 .grid .grid-item {
   width: 33.3%;
+    padding:4%;
+
+}
+.fancybox-image {
+    border-color: white !important;
+}
+.fancybox-skin {
+    background-color: transparent !important;
 }
 .grid .grid-item.width2 {
     /*width: 48%;*/
     width: 66.6%;
+    padding:4%;
     /*width: 80%;*/
     /*margin: 0 10%;*/
+}
+img {
+/*  border: 15px solid #555 !important;*/
+    border: 15px solid #424242 !important; 
+    border-radius: 10px;
 }
 .grid .grid-item.width4 {
     width: 48%;
@@ -264,6 +279,7 @@ footer #copyright li {
   .grid .grid-sizer,
   .grid .grid-item.width2,.grid .grid-item.width3, .grid .grid-item {
     width: 49.2%;
+      
   }
 }
 @media (max-width: 600px) {
