@@ -129,12 +129,12 @@ h4 {
 }
 /* line 17, ../sass/partials/_layout.scss */
 .q-nav header h4 a {
-  color: #c4c2c2;
+  color: #3A773B;
   text-decoration: none;
 }
 /* line 22, ../sass/partials/_layout.scss */
 .q-nav header h4 a:hover {
-  color: #3A773B;
+  color: #c4c2c2;
     
 }
 
